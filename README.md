@@ -1,4 +1,2 @@
-# GIT-ST-2025-25
-
-git statusMy first change in this project
-My second change
+My first change in this project
+idea what am I doing
